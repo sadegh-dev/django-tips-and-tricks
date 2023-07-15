@@ -17,7 +17,7 @@
 
 
 """
-    # for examples :: App Directories 
+    # for example :: App Directories 
 
     + myapp
         - ...
@@ -27,3 +27,29 @@
             - library.py
 """
 
+###############
+# __init__.py #
+###############
+
+from .office import Person
+from .library import Category, Book
+
+
+
+#############
+# office.py #
+#############
+
+class Person(models.Model):
+    pass
+
+
+##############
+# library.py #
+##############
+
+class Category(models.Model):
+    pass
+
+class Book(models.Model):
+    pass
