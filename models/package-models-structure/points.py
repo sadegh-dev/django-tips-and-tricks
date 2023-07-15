@@ -1,11 +1,12 @@
 """
-    better way to avoid complexity
+    Better way to avoid complexity
 
     When there are many class-models of an app, 
     it is better to use this way to avoid complexity.
 """
 
 """
+    Create models directory
 
     In this way, we delete the models.py file in the app 
     and create a directory called models, 
@@ -15,5 +16,14 @@
 """
 
 
+"""
+    # for examples :: App Directories 
 
+    + myapp
+        - ...
+        + models
+            - __init__.py
+            - office.py
+            - library.py
+"""
 
