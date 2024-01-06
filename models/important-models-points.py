@@ -17,4 +17,10 @@
 """
 
 
-
+""" Like every class in the model, a table in the database
+    
+    Like any class that is created in the model, 
+    A table is also created in the database, 
+    whose attributes are the field types of the fields of that class. 
+    (Each model file can have several classes)
+"""
