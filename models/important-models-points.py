@@ -28,6 +28,10 @@
 
 """ DRY principle in Django
 
+    Django follows the DRY principle, 
+    the goal is to define your data model in one place 
+    and automatically extract records from it.
+
     # DRY: don't repeat yourself
 
 
