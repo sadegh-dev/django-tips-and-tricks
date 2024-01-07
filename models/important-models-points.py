@@ -24,3 +24,10 @@
     whose attributes are the field types of the fields of that class. 
     (Each model file can have several classes)
 """
+
+
+""" DRY principle in Django
+
+
+
+"""
