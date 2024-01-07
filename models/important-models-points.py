@@ -28,6 +28,8 @@
 
 """ DRY principle in Django
 
+    # DRY: don't repeat yourself
+
 
 
 """
