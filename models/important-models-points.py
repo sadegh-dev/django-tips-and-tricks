@@ -35,7 +35,6 @@
     # DRY: don't repeat yourself
 
     Here, we define all database fields in the model section, 
-    and in all other sections, 
-
-
+    and in all other sections, we use its data only by the name of that field 
+    and without mentioning the type of those fields.
 """
