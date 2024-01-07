@@ -34,6 +34,8 @@
 
     # DRY: don't repeat yourself
 
+    Here, we define all database fields in the model section, 
+    and in all other sections, 
 
 
 """
